@@ -1,0 +1,35 @@
+{
+  "files": {
+    "app.js": "/rn-todoApp/static/js/app.c3c01a4a.chunk.js",
+    "app.js.map": "/rn-todoApp/static/js/app.c3c01a4a.chunk.js.map",
+    "runtime~app.js": "/rn-todoApp/static/js/runtime~app.588a011b.js",
+    "runtime~app.js.map": "/rn-todoApp/static/js/runtime~app.588a011b.js.map",
+    "static/js/2.ba982a52.chunk.js": "/rn-todoApp/static/js/2.ba982a52.chunk.js",
+    "static/js/2.ba982a52.chunk.js.map": "/rn-todoApp/static/js/2.ba982a52.chunk.js.map",
+    "fonts/AntDesign.ttf": "/rn-todoApp/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/rn-todoApp/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/rn-todoApp/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/rn-todoApp/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/rn-todoApp/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/rn-todoApp/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Foundation.ttf": "/rn-todoApp/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/rn-todoApp/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/rn-todoApp/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/rn-todoApp/./fonts/MaterialIcons.ttf",
+    "fonts/Roboto-Bold.ttf": "/rn-todoApp/./fonts/Roboto-Bold.ttf",
+    "fonts/Roboto-Regular.ttf": "/rn-todoApp/./fonts/Roboto-Regular.ttf",
+    "fonts/SimpleLineIcons.ttf": "/rn-todoApp/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/rn-todoApp/favicon-16.png",
+    "favicon-32.png": "/rn-todoApp/favicon-32.png",
+    "favicon.ico": "/rn-todoApp/favicon.ico",
+    "index.html": "/rn-todoApp/index.html",
+    "manifest.json": "/rn-todoApp/manifest.json",
+    "serve.json": "/rn-todoApp/serve.json",
+    "static/media/no-items.png": "/rn-todoApp/static/media/no-items.eba6baad.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.588a011b.js",
+    "static/js/2.ba982a52.chunk.js",
+    "static/js/app.c3c01a4a.chunk.js"
+  ]
+}
