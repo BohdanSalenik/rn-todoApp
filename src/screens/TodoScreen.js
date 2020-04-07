@@ -16,7 +16,8 @@ export const TodoScreen = ({ goBack, todo, delTodo, onSave }) => {
     onSave(todo.id, title);
     setModal(false);
   };
-
+//expo fetch:android:keystore
+//expo upload:android
   return (
     <View style={styles.block}>
       <EditModal
