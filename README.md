@@ -1,8 +1,5 @@
-# rn-todoApp 
-For test App you need install 'expo client' (ios) or 'expo' (android) 
-then scan qr-code
-https://prnt.sc/rv679r
-
-for ios you must sign in expo platform 
-login for expo: bohdan.salenik@gmail.com 
-pass: 123123
+To preview and test the App:
+1) Using Android:
+Install ‘expo’ (Play Market). Then scan QR-code https://prnt.sc/rv679r
+2) Using IOS:
+Install ‘expo client’ (ios). Then sign in expo platform (login: bohdan.salenik@gmail.com pass: 123123)
